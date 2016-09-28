@@ -1,0 +1,7 @@
+c:\users\11550378\documents\visual studio 2015\Projects\Exercise 2\Exercise 2\bin\Debug\Exercise 2.exe.config
+\\Mac\Home\Downloads\drive-download-20160928T132453Z\Exercise 2\Exercise 2\bin\Debug\Exercise 2.exe.config
+\\Mac\Home\Downloads\drive-download-20160928T132453Z\Exercise 2\Exercise 2\bin\Debug\Exercise 2.exe
+\\Mac\Home\Downloads\drive-download-20160928T132453Z\Exercise 2\Exercise 2\bin\Debug\Exercise 2.pdb
+\\Mac\Home\Downloads\drive-download-20160928T132453Z\Exercise 2\Exercise 2\obj\Debug\Exercise 2.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\drive-download-20160928T132453Z\Exercise 2\Exercise 2\obj\Debug\Exercise 2.exe
+\\Mac\Home\Downloads\drive-download-20160928T132453Z\Exercise 2\Exercise 2\obj\Debug\Exercise 2.pdb
